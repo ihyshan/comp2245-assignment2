@@ -1,2 +1,3 @@
-# comp2245-assignment2
-Blog Page
+# COMP2245 Assignment 2
+
+This is Assignment 2 for Sherwal Hannays
